@@ -24,6 +24,8 @@ Total:| 1,296
 
 Data can be downloaded from here: [Train](https://storage.googleapis.com/ibeans/train.zip), [Validation](https://storage.googleapis.com/ibeans/validation.zip), [Test](https://storage.googleapis.com/ibeans/test.zip).
 
+Now also available [here on huggingface](https://huggingface.co/datasets/beans).
+
 ### Versions/Release
 |||
 |----|---------------|
